@@ -5497,9 +5497,8 @@ textarea.form-control-lg {
 }
 
 .modal-iframe{
-  position: relative;
-  width: 576px;
-  height: 544px;
+  position: center;
+  height: 500px;
 }
 
 .modal.fade .modal-dialog {
@@ -5626,7 +5625,7 @@ textarea.form-control-lg {
 @media (min-width: 992px) {
   .modal-lg,
 .modal-xl {
-    max-width: 800px;
+    max-width: 900px;
   }
 }
 @media (min-width: 2000px) {
